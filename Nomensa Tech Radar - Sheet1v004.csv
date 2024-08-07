@@ -1,13 +1,13 @@
 name,quadrant,ring,isNew,status,description
-.NET / .NET Framework,Languages and Frameworks,Use,TRUE,new,"""<p>Deployable only on windows machines</p><h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / .NET  Core,Languages and Frameworks,Use,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / C#,Languages and Frameworks,Use,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / ASP.NET Web MVC,Languages and Frameworks,Use,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / ASP.NET Web API,Languages and Frameworks,Use,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / Blazor,Languages and Frameworks,Assess,TRUE,new,"""<p>Reactive properties are manipulated by C# code rather than Javascript although there is no restrictions that would stop you using Javascript if you wanted to</p><h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / Winforms,Languages and Frameworks,Assess,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / Entity Framework,Languages and Frameworks,Evaluate,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / Dynamics 365 SSDK,Languages and Frameworks,Use,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / Umbraco,Tools and Platforms,Evaluate,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-.NET / WPF,Languages and Frameworks,Assess,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
-,Languages and Frameworks,Use,TRUE,new,"""<h3>Experience</h3><ul><li>Ben</li></ul>"""
+.NET / .NET Framework,Languages and Frameworks,Use,TRUE,new,<p>Deployable only on windows machines</p><h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / .NET  Core,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / C#,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / ASP.NET Web MVC,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / ASP.NET Web API,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Blazor,Languages and Frameworks,Assess,TRUE,new,<p>Reactive properties are manipulated by C# code rather than Javascript although there is no restrictions that would stop you using Javascript if you wanted to</p><h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Winforms,Languages and Frameworks,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Entity Framework,Languages and Frameworks,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Dynamics 365 SSDK,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Umbraco,Tools and Platforms,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / WPF,Languages and Frameworks,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
