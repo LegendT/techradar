@@ -1,0 +1,62 @@
+name,quadrant,ring,isNew,status,description
+.NET / .NET Framework,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>.NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library and supports several programming languages. It provides a wide range of functionality and support for developing Windows applications, web applications, and more.</p>
+<h3>Comments</h3>
+<p>Deployable only on windows machines</p>
+<h3>Experience</h3>
+<ul><li>Ben</li></ul>"
+.NET / .NET  Core,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / C#,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / ASP.NET Web MVC,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / ASP.NET Web API,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Blazor,Languages and Frameworks,Assess,TRUE,new,<p>Reactive properties are manipulated by C# code rather than Javascript although there is no restrictions that would stop you using Javascript if you wanted to</p><h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Winforms,Languages and Frameworks,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Entity Framework,Languages and Frameworks,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Dynamics 365 SSDK,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / Umbraco,Tools and Platforms,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+.NET / WPF,Languages and Frameworks,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+API Frameworks / Custom REST APIs,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+API Frameworks / OpenAPI (Swagger),Languages and Frameworks,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+API Frameworks / SOAP,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+API Frameworks / GraphQL,Languages and Frameworks,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Azure / Azure Cloud Functions,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Azure / Azure App Services,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Azure / Azure Container Apps,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Azure / Azure Service Bus,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Azure / Azure DevOps,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Azure / Azure APIM,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / MySQL,Data,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / PostgreSQL,Data,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / MongoDB,Data,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / Redis,Data,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / MariaDB,Data,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / Memcache,Data,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / Meilisearch,Tools and Platforms,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / Apache Solr,Tools and Platforms,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Databases / Elasticsearch,Tools and Platforms,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Node JS,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Express JS,Languages and Frameworks,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Typescript,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Strapi,Tools and Platforms,Hold,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / ES6,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Build Tools,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Unit Testing,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Vue JS/Nuxt,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / React JS/Next,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / PHP,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Drupal 7,Tools and Platforms,Hold,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Drupal 8+,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Drupal Theming,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Symfony,Languages and Frameworks,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / WordPress configuration,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / WordPress custom development,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / WordPress theming,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Laravel,Languages and Frameworks,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Cypress,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Webdriver,Languages and Frameworks,Hold,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Jest,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / SOAPUI,Tools and Platforms,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / BDD,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Jmeter,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / PHPUnit,Methods and Techniques,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Playwright,Languages and Frameworks,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
