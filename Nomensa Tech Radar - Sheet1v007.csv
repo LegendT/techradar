@@ -1,0 +1,315 @@
+name,quadrant,ring,isNew,status,description
+.NET / .NET Framework,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>.NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library and supports several programming languages. It provides a wide range of functionality and support for developing Windows applications, web applications, and more.</p>
+<h3>Comments</h3>
+<p>Deployable only on windows machines</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / .NET  Core,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>A cross-platform and open-source framework developed by Microsoft for developing cloud-based software application. It's compatible with various operating systems (Windows, Linux, and Mac OS), offering high performance and scalability. Supports microservices.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / C#,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>An object-oriented programming language created by Microsoft, first introduced in .NET framework in 2003 and is commonly used in web and mobile applications, cloud-based services, enterprise software and game development.</p>
+<h3>Projects</h3>
+<ul>
+<li>MHR</li>
+<li>Dev Bank Wales</li>
+<li>The Welsh Government - DEWi</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / ASP.NET Web MVC,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>An open sourced web application framework by Microsoft based on Model-View-Controller (MVC) architecture.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / ASP.NET Web API,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>An open source front end framework within .NET ecosystem developed by Microsoft. It is based on HTML, CSS and C#.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Blazor,Languages and Frameworks,Assess,TRUE,new,"<h3>Description</h3>
+<p>An open source front end framework within .NET ecosystem developed by Microsoft. It is based on HTML, CSS and C#.</p>
+<h3>Comments</h3>
+<p>Reactive properties are manipulated by C# code rather than Javascript although there is no restrictions that would stop you using Javascript if you wanted to</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Winforms,Languages and Frameworks,Assess,TRUE,new,"<h3>Description</h3>
+<p>A largely legacy framework to build desktop application in .NET</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Entity Framework,Languages and Frameworks,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>An open source Object–relational mapping (ORM) framework for .NET applications. It enables developers to work with data stored in database without writing data-access code.</p>
+<p>Entity Framework supports various database providers and is commonly used in .NET applications.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Dynamics 365 SSDK,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>A .NET framework library that is used to communicate with Dynamics 365</p>
+<h3>Projects</h3>
+<ul>
+<li>Dev Bank Wales</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Umbraco,Tools and Platforms,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Umbraco is an open source . NET CMS - or content management system - which is built on Microsoft's . NET (dot NET) framework using ASP.NET and is written in C#.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / WPF,Languages and Frameworks,Assess,TRUE,new,"<h3>Description</h3>
+<p>A XAML based framework to build desktop applications in .NET</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+API Frameworks / JSON:API,Methods and Techniques,Use,TRUE,new,"<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+API Frameworks / Custom REST APIs,Methods and Techniques,Use,TRUE,new,"<h3>Description</h3>
+<p>REST - representative state transfer. These APIs are typically built such that an entity like a product would be acted on by HTTP requests with the following verbs GET, POST, PUT, etc. and requests and reponses are typically in JSON.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+API Frameworks / OpenAPI (Swagger),Languages and Frameworks,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Swagger is an open-source framework that simplifies the development, documentation, and consumption of RESTful APIs. It was created by Tony Tam and initially released in 2011. Swagger allows developers to define APIs using the OpenAPI Specification (formerly known as Swagger Specification), which provides a machine-readable representation of the API endpoints, request/response formats, and authentication methods.
+</p>
+<p>It offers tools to generate interactive API documentation, client SDKs, and server stubs. With Swagger, developers can easily test and explore APIs, facilitating collaboration between backend and frontend teams.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+API Frameworks / SOAP,Methods and Techniques,Use,TRUE,new,"<h3>Description</h3>
+<p>SOAP = Simple Object Access Protocol. Requests are made in XML format</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi (LRS service)</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>
+"
+API Frameworks / GraphQL,Languages and Frameworks,Evaluate,TRUE,new,"<h3>Description</h3>
+<p><a href='https://graphql.org/' target='_blank'>GraphQL</a> is a data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. GraphQL provides a more efficient, powerful and flexible alternative to the REST API.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure Cloud Functions,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure Functions is a serverless computing service, hosted on the Microsoft Azure public cloud, that streamlines the development of systems and applications. Serverless computing responding to a range of triggers e.g. HTTP requests, blob storage upload, service bus messages etc.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi</li>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure App Services,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi</li>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure Container Apps,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure Container Apps is a serverless application hosting service where users do not see nor manage any underlying VMs, orchestrators, or other cloud infrastructure. Azure Container Apps enables you to run your application code packaged in multiple containers and is un-opinionated about runtimes or programming models that are used.</p>
+<h3>Projects</h3>
+<ul>
+<li>East of England Ambulance</li>
+<li>Knowsley MBC</li>
+<li>Essex County Council</li>
+</ul>
+<h3>Comments</h3>
+<p>Hosting a local gov Drupal site in Azure and Hosting a Strapi-based website in Azure</p>
+<p>Good support for dev sites. We're quite skilled in orchestrating this with Terraform. We've also had good success with SSO. Easier than AWS to get command line access to containers. Can be in our Azure or client Azure. We have ready-built pipelines.</p>
+<p>Hosting a local gov Drupal site in Azure and Hosting a Strapi-based website in Azure.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Richard</li>
+<li>Adrian</li>
+</ul>"
+Azure / Azure Service Bus,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other</p>
+<h3>Projects</h3>
+<ul>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure DevOps,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure DevOps is a set of development tools and services provided by Microsoft for building, testing, and deploying software. It includes features for source code management, continuous integration and continuous delivery (CI/CD), and project management.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi/li>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Comments</h3>
+<p>Development Bank of Wales uses repositories and pipelines</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure APIM,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>API management service used to throttle requests, restrict and monetise API access.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Databases / MS SQL,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>A relational database by Microsoft. Can be run on Windows, Linux and Docker.</p>
+<h3>Experience</h3>
+<h3>Projects</h3>
+<ul>
+<li>MHR</li>
+<li>The Welsh Government - DEWi</li>
+</ul>
+<ul>
+<li>Ben</li>
+</ul>"
+Databases / MySQL,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>Open source relational database. Owned by Oracle. Contentious licensing issues, but quite popular. Nearly 30 years old (1995). MariaDB is a fork of it.</p>
+<h3>Projects</h3>
+<ul>
+<li>Knowsley</li>
+</ul>
+<h3>Comments</h3>
+<p>Development Bank of Wales uses repositories and pipelines</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Adrian</li>
+<li>Richard</li>
+<li>Andy</li>
+<li>Nate</li>
+</ul>"
+Databases / PostgreSQL,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>PostgreSQL is a powerful, free, and open source object-relational database system that uses and extends the SQL language combined with many features that store and scale the most complicated data workloads. It has more than 30 years of active development on the core platform. PostgreSQL runs on all major operating systems, has been ACID-compliant since 2001, and has powerful add-ons such as the popular PostGIS geospatial database extender.</p>
+<h3>Projects</h3>
+<ul>
+<li>Essex</li>
+</ul>
+<h3>Comments</h3>
+<p>Essex had a specific request from their DevOps team to use postgres over mariadb</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Databases / MongoDB,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>MongoDB is a cross-platform open-source NoSQL database management system that was created by Dwight Merriman, Eliot Horowitz, and Kevin Ryan in 2007.  MongoDB stores data in flexible, JSON-like documents, allowing for dynamic schema and easy data modelling. Key features of MongoDB include horizontal scalability through sharding, automatic data distribution, and high availability through replica sets.</p>
+<h3>Experience</h3>
+<ul>
+<li>Richard</li>
+</ul>"
+Databases / Redis,Data,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Redis, which stands for Remote Dictionary Server, is a open source, fast, in-memory database. Its most common use is for caching data. It stores strings, lists, hashes, bitmaps, geospatial data - and other structures. It can be used in clusters to add more resilience. Regarding data types and resiliency, it is more capable than memcache.</p>
+<h3>Comments</h3>
+<p>Most common use case at Nomensa would be for Drupal/LGD sites, although we don't currently use it on any of our existing sites. At a higher level, our use of Microsoft FrontDoor provides higher level caching which aids performance tremendously, but there is scope to add Redis or Memcache to the mix, particularly to improve performance further for authenticated users.</p>"
+Databases / MariaDB,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>Fork of MySQL</p>
+<h3>Projects</h3>
+<ul>
+<li>Essex</li>
+<li>Ramblers</li>
+</ul>
+<h3>Comments</h3>
+<p>Note that Essex will be migrating to MySql soon, but the AWS does not have the requirement to move from MariaDB.</p>
+<p>MariaDB specific service in Azure is on the retirement path</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Adrian</li>
+<li>Richard</li>
+<li>Andy</li>
+<li>Nate</li>
+</ul>"
+Databases / Memcache,Data,Assess,TRUE,new,"<h3>Description</h3>
+<p>Memcache is an open source, fast, in-memory database, similar to Redis. It's faster than Redis but is primarily used for key:value storing of data, so the data structures are far simpler and limited. It also doesn't have Redis' ability to store data to disk for more persistence, nor does it have the clustering options Redis has.</p>
+<h3>Experience</h3>
+<ul>
+<li>Richard</li>
+</ul>"
+Databases / Meilisearch,Tools and Platforms,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Open-source RESTful search API that provides customisable on-site search experience, compatible with CMS and web frameworks e.g. Strapi/ WordPress</p>
+<h3>Projects</h3>
+<ul>
+<li>East of England Ambulance</li>
+</ul>
+<h3>Comments</h3>
+<p>Added Meilisearch plugin on Strapi for EAS to support search functionality</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Kristol</li>
+<li>Kurt</li>
+</ul>"
+Databases / Apache Solr,Tools and Platforms,Assess,TRUE,new,"<h3>Description</h3>
+<p>Solr is an open-source enterprise-search platform, written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document handling.</p>
+<h3>Experience</h3>
+<ul>
+<li>Richard</li>
+</ul>"
+Databases / Elasticsearch,Tools and Platforms,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java..</p>
+<h3>Experience</h3>
+<ul>
+<li>Adrian</li>
+</ul>"
+Javascript / Node JS,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Express JS,Languages and Frameworks,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Typescript,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Strapi,Tools and Platforms,Hold,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / ES6,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Build Tools,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Unit Testing,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / Vue JS/Nuxt,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Javascript / React JS/Next,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / PHP,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Drupal 7,Tools and Platforms,Hold,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Drupal 8+,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Drupal Theming,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Symfony,Languages and Frameworks,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / WordPress configuration,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / WordPress custom development,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / WordPress theming,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+PHP / Laravel,Languages and Frameworks,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Cypress,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Webdriver,Languages and Frameworks,Hold,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Jest,Languages and Frameworks,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / SOAPUI,Tools and Platforms,Evaluate,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / BDD,Methods and Techniques,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Jmeter,Tools and Platforms,Use,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / PHPUnit,Methods and Techniques,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
+Testing / Playwright,Languages and Frameworks,Assess,TRUE,new,<h3>Experience</h3><ul><li>Ben</li></ul>
