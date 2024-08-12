@@ -1,0 +1,522 @@
+name,quadrant,ring,isNew,status,description
+.NET / .NET Framework,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>.NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library and supports several programming languages. It provides a wide range of functionality and support for developing Windows applications, web applications, and more.</p>
+<h3>Comments</h3>
+<p>Deployable only on windows machines</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / .NET  Core,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>A cross-platform and open-source framework developed by Microsoft for developing cloud-based software application. It's compatible with various operating systems (Windows, Linux, and Mac OS), offering high performance and scalability. Supports microservices.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / C#,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>An object-oriented programming language created by Microsoft, first introduced in .NET framework in 2003 and is commonly used in web and mobile applications, cloud-based services, enterprise software and game development.</p>
+<h3>Projects</h3>
+<ul>
+<li>MHR</li>
+<li>Dev Bank Wales</li>
+<li>The Welsh Government - DEWi</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / ASP.NET Web MVC,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>An open sourced web application framework by Microsoft based on Model-View-Controller (MVC) architecture.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / ASP.NET Web API,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>An open source front end framework within .NET ecosystem developed by Microsoft. It is based on HTML, CSS and C#.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Blazor,Languages and Frameworks,Assess,TRUE,new,"<h3>Description</h3>
+<p>An open source front end framework within .NET ecosystem developed by Microsoft. It is based on HTML, CSS and C#.</p>
+<h3>Comments</h3>
+<p>Reactive properties are manipulated by C# code rather than Javascript although there is no restrictions that would stop you using Javascript if you wanted to</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Winforms,Languages and Frameworks,Assess,TRUE,new,"<h3>Description</h3>
+<p>A largely legacy framework to build desktop application in .NET</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Entity Framework,Languages and Frameworks,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>An open source Object–relational mapping (ORM) framework for .NET applications. It enables developers to work with data stored in database without writing data-access code.</p>
+<p>Entity Framework supports various database providers and is commonly used in .NET applications.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Dynamics 365 SSDK,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>A .NET framework library that is used to communicate with Dynamics 365</p>
+<h3>Projects</h3>
+<ul>
+<li>Dev Bank Wales</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / Umbraco,Tools and Platforms,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Umbraco is an open source . NET CMS - or content management system - which is built on Microsoft's . NET (dot NET) framework using ASP.NET and is written in C#.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+.NET / WPF,Languages and Frameworks,Assess,TRUE,new,"<h3>Description</h3>
+<p>A XAML based framework to build desktop applications in .NET</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+API Frameworks / JSON:API,Methods and Techniques,Use,TRUE,new,"<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+API Frameworks / Custom REST APIs,Methods and Techniques,Use,TRUE,new,"<h3>Description</h3>
+<p>REST - representative state transfer. These APIs are typically built such that an entity like a product would be acted on by HTTP requests with the following verbs GET, POST, PUT, etc. and requests and reponses are typically in JSON.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+API Frameworks / OpenAPI (Swagger),Languages and Frameworks,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Swagger is an open-source framework that simplifies the development, documentation, and consumption of RESTful APIs. It was created by Tony Tam and initially released in 2011. Swagger allows developers to define APIs using the OpenAPI Specification (formerly known as Swagger Specification), which provides a machine-readable representation of the API endpoints, request/response formats, and authentication methods.
+</p>
+<p>It offers tools to generate interactive API documentation, client SDKs, and server stubs. With Swagger, developers can easily test and explore APIs, facilitating collaboration between backend and frontend teams.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+API Frameworks / SOAP,Methods and Techniques,Use,TRUE,new,"<h3>Description</h3>
+<p>SOAP = Simple Object Access Protocol. Requests are made in XML format</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi (LRS service)</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>
+"
+API Frameworks / GraphQL,Languages and Frameworks,Evaluate,TRUE,new,"<h3>Description</h3>
+<p><a href='https://graphql.org/' target='_blank'>GraphQL</a> is a data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. GraphQL provides a more efficient, powerful and flexible alternative to the REST API.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure Cloud Functions,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure Functions is a serverless computing service, hosted on the Microsoft Azure public cloud, that streamlines the development of systems and applications. Serverless computing responding to a range of triggers e.g. HTTP requests, blob storage upload, service bus messages etc.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi</li>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure App Services,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi</li>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure Container Apps,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure Container Apps is a serverless application hosting service where users do not see nor manage any underlying VMs, orchestrators, or other cloud infrastructure. Azure Container Apps enables you to run your application code packaged in multiple containers and is un-opinionated about runtimes or programming models that are used.</p>
+<h3>Projects</h3>
+<ul>
+<li>East of England Ambulance</li>
+<li>Knowsley MBC</li>
+<li>Essex County Council</li>
+</ul>
+<h3>Comments</h3>
+<p>Hosting a local gov Drupal site in Azure and Hosting a Strapi-based website in Azure</p>
+<p>Good support for dev sites. We're quite skilled in orchestrating this with Terraform. We've also had good success with SSO. Easier than AWS to get command line access to containers. Can be in our Azure or client Azure. We have ready-built pipelines.</p>
+<p>Hosting a local gov Drupal site in Azure and Hosting a Strapi-based website in Azure.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Richard</li>
+<li>Adrian</li>
+</ul>"
+Azure / Azure Service Bus,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other</p>
+<h3>Projects</h3>
+<ul>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure DevOps,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Azure DevOps is a set of development tools and services provided by Microsoft for building, testing, and deploying software. It includes features for source code management, continuous integration and continuous delivery (CI/CD), and project management.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi</li>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Comments</h3>
+<p>Development Bank of Wales uses repositories and pipelines</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Azure / Azure APIM,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>API management service used to throttle requests, restrict and monetise API access.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Databases / MS SQL,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>A relational database by Microsoft. Can be run on Windows, Linux and Docker.</p>
+<h3>Experience</h3>
+<h3>Projects</h3>
+<ul>
+<li>MHR</li>
+<li>The Welsh Government - DEWi</li>
+</ul>
+<ul>
+<li>Ben</li>
+</ul>"
+Databases / MySQL,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>Open source relational database. Owned by Oracle. Contentious licensing issues, but quite popular. Nearly 30 years old (1995). MariaDB is a fork of it.</p>
+<h3>Projects</h3>
+<ul>
+<li>Knowsley</li>
+</ul>
+<h3>Comments</h3>
+<p>Development Bank of Wales uses repositories and pipelines</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Adrian</li>
+<li>Richard</li>
+<li>Andy</li>
+<li>Nate</li>
+</ul>"
+Databases / PostgreSQL,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>PostgreSQL is a powerful, free, and open source object-relational database system that uses and extends the SQL language combined with many features that store and scale the most complicated data workloads. It has more than 30 years of active development on the core platform. PostgreSQL runs on all major operating systems, has been ACID-compliant since 2001, and has powerful add-ons such as the popular PostGIS geospatial database extender.</p>
+<h3>Projects</h3>
+<ul>
+<li>Essex</li>
+</ul>
+<h3>Comments</h3>
+<p>Essex had a specific request from their DevOps team to use postgres over mariadb</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Databases / MongoDB,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>MongoDB is a cross-platform open-source NoSQL database management system that was created by Dwight Merriman, Eliot Horowitz, and Kevin Ryan in 2007.  MongoDB stores data in flexible, JSON-like documents, allowing for dynamic schema and easy data modelling. Key features of MongoDB include horizontal scalability through sharding, automatic data distribution, and high availability through replica sets.</p>
+<h3>Experience</h3>
+<ul>
+<li>Richard</li>
+</ul>"
+Databases / Redis,Data,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Redis, which stands for Remote Dictionary Server, is a open source, fast, in-memory database. Its most common use is for caching data. It stores strings, lists, hashes, bitmaps, geospatial data - and other structures. It can be used in clusters to add more resilience. Regarding data types and resiliency, it is more capable than memcache.</p>
+<h3>Comments</h3>
+<p>Most common use case at Nomensa would be for Drupal/LGD sites, although we don't currently use it on any of our existing sites. At a higher level, our use of Microsoft FrontDoor provides higher level caching which aids performance tremendously, but there is scope to add Redis or Memcache to the mix, particularly to improve performance further for authenticated users.</p>"
+Databases / MariaDB,Data,Use,TRUE,new,"<h3>Description</h3>
+<p>Fork of MySQL</p>
+<h3>Projects</h3>
+<ul>
+<li>Essex</li>
+<li>Ramblers</li>
+</ul>
+<h3>Comments</h3>
+<p>Note that Essex will be migrating to MySql soon, but the AWS does not have the requirement to move from MariaDB.</p>
+<p>MariaDB specific service in Azure is on the retirement path</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Adrian</li>
+<li>Richard</li>
+<li>Andy</li>
+<li>Nate</li>
+</ul>"
+Databases / Memcache,Data,Assess,TRUE,new,"<h3>Description</h3>
+<p>Memcache is an open source, fast, in-memory database, similar to Redis. It's faster than Redis but is primarily used for key:value storing of data, so the data structures are far simpler and limited. It also doesn't have Redis' ability to store data to disk for more persistence, nor does it have the clustering options Redis has.</p>
+<h3>Experience</h3>
+<ul>
+<li>Richard</li>
+</ul>"
+Databases / Meilisearch,Tools and Platforms,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Open-source RESTful search API that provides customisable on-site search experience, compatible with CMS and web frameworks e.g. Strapi/ WordPress</p>
+<h3>Projects</h3>
+<ul>
+<li>East of England Ambulance</li>
+</ul>
+<h3>Comments</h3>
+<p>Added Meilisearch plugin on Strapi for EAS to support search functionality</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Kristol</li>
+<li>Kurt</li>
+</ul>"
+Databases / Apache Solr,Tools and Platforms,Assess,TRUE,new,"<h3>Description</h3>
+<p>Solr is an open-source enterprise-search platform, written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document handling.</p>
+<h3>Experience</h3>
+<ul>
+<li>Richard</li>
+</ul>"
+Databases / Elasticsearch,Tools and Platforms,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java..</p>
+<h3>Experience</h3>
+<ul>
+<li>Adrian</li>
+</ul>"
+Javascript / Node JS,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>Node JS is a runtime for JavaScript applications. Historically you would only be able to run JavaScript in a browser to perform basic data fetching and/or DOM manipulation whereas today entire services can be built in JavaScript.</p>
+<p>From CMS' through to simple microservices, you can build almost anything in JavaScript anywhere meaning teams can be more adaptive and flexible, essentially making your frontend devs fullstack devs.</p>
+<p>Steep learning curve if trying to build something reaqlly complex like a CMS. Would recommend developers looked at either Express or Koa.</p>
+<h3>Projects</h3>
+<ul>
+<li><a href=""https://gitlab.nomensa.com/highways-england/herb"">National Highways</a></li>
+<li><a href=""https://gitlab.nomensa.com/ramblers/ramblers-nuxt"">Ramblers</a></li>
+<li><a href=""https://gitlab.nomensa.com/nhs/eas/eas-001"">East England Ambulance Service</a></li> 
+<li><a href=""https://gitlab.com/es-catapult/hydrogen-mapping-tool/backend"">Hydrogen Mapping Tool</a></li> 
+</ul>
+<h3>Comments</h3>
+<p>Easy to build and run your code in Node. As an example, a Node ""spider"" app which could crawl through page responses, sifting through the page content and calling all linsk within to see if any were 404'ing: https://gitlab.nomensa.com/nomensa-boilerplate/link-content-checker</p>
+<p>Node is a place where you can run most JavaScript with a few exceptions (specifically around clientside - though there are workarounds in specific circumstances in the frontend frameworks.)</p>
+<p>Developers should make sure they check support for common JS in MDN as not all JS can be used in Node JS environments.</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Adrian</li>
+<li>Kurtis</li>
+<li>Nate</li>
+<li>Leo</li>
+<li>Kate</li>
+<li>Anthony</li>
+</ul>"
+Javascript / Express JS,Languages and Frameworks,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>A complicated yet much easier way of being able to use Node. Node is huge and there aren't many devs around who know it thoroughly. As with a lot of programming languages, there are a ton of ways to write something but really only ~5 good ways. Express is essentially a cheatsheet to support developers.</p>
+
+<p>We tend to use Koa JS instead which is a slim version of express made by the same people.</p>
+<h3>Projects</h3>
+<ul>
+<li>The Welsh Government - DEWi</li>
+<li>Development Bank of Wales</li>
+</ul>
+<h3>Comments</h3>
+<p>Though no named experience, its JavaScript. We should be able to pick this up and build a project with it. There would be a few grey areas when it comes to setting up builds and deployments for any bespoke express projects.</p>
+<ul>
+<li>Ben</li>
+<li>Adrian</li>
+<li>Kurtis</li>
+<li>Nate</li>
+<li>Leo</li>
+<li>Kate</li>
+<li>Anthony</li>
+</ul>"
+Javascript / Typescript,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>JavaScript, whilst allowing developers to use multiple data types in their functionality, falls short when it comes to type checking. TypeScript fills this gap by enabling developers to add ""data security"" to their code. For example, a function might have accepted a parameter type of object which could've meant any object. But now you can create a schematic type for type for that same object and the code will fail if the keys/value don't match as specified in the type.</p>
+
+<p>TypeScript acts as both a safety measure in JavaScript and as documentation for code.</p>
+
+<h3>Projects</h3>
+<ul>
+<li><a href=""https://gitlab.nomensa.com/highways-england/herb"">National Highways</a></li>
+<li><a href=""https://gitlab.nomensa.com/ramblers/ramblers-nuxt"">Ramblers</a></li>
+<li><a href=""https://gitlab.nomensa.com/nhs/eas/eas-001"">East England Ambulance Service</a></li> 
+<li><a href=""https://gitlab.com/es-catapult/hydrogen-mapping-tool/backend"">Hydrogen Mapping Tool</a></li> 
+</ul>"
+Javascript / Strapi,Tools and Platforms,Hold,TRUE,new,"<h3>Description</h3>
+<p>Strapi is content management system built with Node. It's a CMS which offers a flexible development experience and has enough out-of-the-box functionality to use it as a content editing platform without changing any code.</p>
+
+<p>For projects requiring more advanced features which aren't standard in Strapi but are present and well supported in other CMS' (such as Drupal), we should advise clients to rethink their decision to use Strapi (unless they're adamant and have adequate budget)</p>
+
+<h3>Projects</h3>
+<ul>
+<li><a href=""https://gitlab.nomensa.com/highways-england/herb"">National Highways</a></li>
+<li><a href=""https://gitlab.nomensa.com/nhs/eas/eas-001"">East England Ambulance Service</a></li> 
+<li><a href=""https://gitlab.com/es-catapult/hydrogen-mapping-tool/backend"">Hydrogen Mapping Tool</a></li> 
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Adrian</li>
+<li>Kurtis</li>
+<li>Nate</li>
+<li>Leo</li>
+<li>Kate</li>
+<li>Anthony</li>
+</ul>"
+Javascript / ES6,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>ES6 is a new way to write JavaScript, covering things like `import`, the lexical ""this"" scope (in arrow functions) and the spread operator (...). There is also the much needed date/time support in the form of the Intl object, removing the need for developers to use libraries to format ISO time numbers. And no more huge iterables in our code with the help of de-structuring. All of these are helping to make our apps faster, more secure and less bloated, utilising core functionality wherever we can.</p>
+<h3>Projects</h3>
+<ul>
+<li><a href=""https://gitlab.nomensa.com/highways-england/herb"">National Highways</a></li>
+<li><a href=""https://gitlab.nomensa.com/nhs/eas/eas-001"">East England Ambulance Service</a></li> 
+<li><a href=""https://gitlab.com/es-catapult/hydrogen-mapping-tool/backend"">Hydrogen Mapping Tool</a></li> 
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Kurtis</li>
+<li>Nate</li>
+<li>Leo</li>
+<li>Kate</li>
+<li>Anthony</li>
+</ul>"
+Javascript / Build Tools,Methods and Techniques,Use,TRUE,new,"<h3>Description</h3>
+<p>All frameworks we use have already had their build processes set up often requiring little or no extra configuration from developers. The most popular build tools used today are Webpack, Rollup or Vite.</p>
+
+<p>These are responsible for building optimised production versions of our apps, transpiling the JS to make it compatible with all modern browsers and code splitting which compiles our code into smaller packets making pages load faster and making page requests much smaller.</p>"
+Javascript / Unit Testing,Methods and Techniques,Use,TRUE,new,"<h3>Description</h3>
+<p>The tools available for performing unit tests in frontend apps are: AVA, JEST, VITEST (for use on Vite built projects only), Testing Library.</p>
+<p>Used in conjunction with the development approach of TDD where developers should build a test before writing any code. Functional requirements in a ticket should be referenced as part of this process. Once thh test is written and failing, you write the code to make the test pass.</p>"
+Javascript / Vue JS/Nuxt,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>Created by Evan You back in 2013 and released the following year, Vue is an approachable, performant, open-source, and versatile frontend framework for building reactive user interfaces and single-page applications. </p>
+<p>The core library focuses on views, making it easy to integrate with other libraries and existing projects. It is versatile enough to build server-side rendered and statically generated web applications using the Nuxt framework.</p>
+<h3>Comments</h3>
+<p>Consider the impact of build processes on build minutes and whether any efficiencies can be made in this area</p>"
+Javascript / React JS/Next,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>React is an open-source, front-end, component-based JavaScript library for building user interfaces or encapsulated components. It can be used as a base in the development of single-page or mobile applications. It was released in 2013 and it's maintained by Facebook and a community of individual developers and companies.</p>
+<h3>Comments</h3>
+<p>Consider the impact of build processes on build minutes and whether any efficiencies can be made in this area</p>"
+PHP / PHP,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>PHP is an open sourced scripting language which is used on 70-80% of web sites in some shape or form.  It was created by Rasmus Lerdorf in 1994 and has since evolved into a widely used language for building dynamic and interactive web applications.  PHP offers seamless integration with HTML, making it easy to embed PHP code within web pages and is at the heart of Drupal (LGD) and Wordpress</p>
+<h3>Projects</h3>
+All Drupal/LGD sites including:
+<ul>
+<li>Ramblers</li>
+<li>Noncom</li>
+<li>Collaborate</li>
+<li>UCAS</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Any of the Drupal Team</li>
+<li>Kurtis</li>
+<li>Leo</li>
+</ul>"
+PHP / Drupal 7,Tools and Platforms,Hold,TRUE,new,"<h3>Description</h3>
+<p>MariaDB, SQLServer, Postrgres). Drupal 7 was released in 2011 and support ends in January 2025</p>
+<h3>Comments</h3>
+<p>Sites running it need upgrading by January 2025</p>
+<h3>Projects</h3>
+<p>IICSA (although it's been converted to a static site)</p>
+<h3>Experience</h3>
+<ul>
+
+<li>Adrian</li>
+<li>Richard</li>
+<li>Nate</li>
+<li>Andy</li>
+</ul>"
+PHP / Drupal 8+,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>Drupal 8 was a major shift from previous versions of Drupal. It the embraces modern Object Oriented PHP and uses many of the Symfony Framework components for the underlying structures of website fundamentals. Drupal then provides the higher level tasks for workflows, security rules, content construction, business logic, API endpoints, service consumption, etc.</p>
+<h3>Comments</h3>
+<p>Sites running it need upgrading by January 2025</p>
+<h3>Projects</h3>
+<ul><li>>Any of the LGD sites</li>
+<li>Ramblers</li>
+<li>UCAS</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Adrian</li>
+<li>Richard</li>
+<li>Nate</li>
+<li>Andy</li>
+</ul>"
+PHP / Drupal Theming,Methods and Techniques,Use,TRUE,new,"<h3>Description</h3>
+<p>Out of the box, modern Drupal supplies a PHP theming system based on Twig - the template system from Symfony. Drupal can also supply just the data portion of a website, and have a Javascript framework such as Nuxt display the frontend. This is known as ""Headless Drupal"" and is not considered Drupal theming.</p>
+<h3>Projects</h3>
+<p>Any of the current LGD sites, the ""Walks Manager"" section of the Ramblers site, and the main UCAS site.</p>
+<h3>Experience</h3>
+<ul>
+<li>Richard</li>
+<li>Adrian</li>
+<li>Kurtis</li>
+<li>Nate</li>
+<li>Rebecca</li>
+<li>Kate</li>
+<li>Anthony</li>
+<li>Andy</li>
+</ul>"
+PHP / Symfony,Languages and Frameworks,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>A very popular PHP Framework underpinning other frameworks like Drupal and Laravel</p>"
+PHP / WordPress configuration,Methods and Techniques,Use,TRUE,new,
+PHP / WordPress custom development,Methods and Techniques,Use,TRUE,new,
+PHP / WordPress theming,Languages and Frameworks,Use,TRUE,new,
+PHP / Laravel,Languages and Frameworks,Assess,TRUE,new,"<h3>Description</h3>
+<p>Laravel is a web application framework with expressive, elegant syntax, written in PHP.
+It provides a solid foundation to create web apps without sweating the small things.</p>"
+Testing / Cypress,Tools and Platforms,Use,TRUE,new,"
+<h3>Description</h3>
+<p>Cypress is an open-source JavaScript based end-to-end and component testing framework which allows developers to test web applications or components, debug them visually and automatically rum them in continous integration builds. It was created by Brian Mann and was first released in 2014. </p>
+<p>It provides a comprehensive set of tools and APIs for testing web applications, including built-in test runners, automatic waiting, and real-time reloading. Cypress has a unique architecture that runs directly in the browser, enabling fast and efficient testing. Cypress has gained popularity due to its ease of use, powerful features, and extensive community support, making it a popular choice for web application testing.</p>
+<h3>Projects</h3>
+<ul>
+<li><a href=""https://gitlab.nomensa.com/highways-england/herb"">National Highways</a></li>
+<li><a href=""https://gitlab.nomensa.com/ramblers/ramblers-nuxt"">Ramblers</a></li>
+<li><a href=""https://gitlab.nomensa.com/nhs/eas/eas-001"">East England Ambulance Service</a></li> 
+<li><a href=""https://gitlab.com/es-catapult/hydrogen-mapping-tool/backend"">Hydrogen Mapping Tool</a></li> 
+</ul>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+<li>Kristal</li>
+<li>Kurtis</li>
+<li>Anthony</li>
+</ul>"
+Testing / Webdriver,Languages and Frameworks,Hold,TRUE,new,
+Testing / Jest,Languages and Frameworks,Use,TRUE,new,"<h3>Description</h3>
+<p>A Javascript testing framework typically used for creating unit tests</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Testing / SOAPUI,Tools and Platforms,Evaluate,TRUE,new,"<h3>Description</h3>
+<p>SoapUI is an open-source testing tool primarily used for testing SOAP and RESTful web services. It was created by Eviware Software and released in 2005.</p>
+
+<p>SoapUI allows developers and testers to create, execute, and validate functional and performance tests for web services. It supports various protocols and standards, including SOAP, REST, HTTP, JMS, AMF, and JDBC. SoapUI provides a user-friendly interface with powerful features such as data-driven testing, assertions, scripting, and test reporting. It also supports security testing, load testing, and mocking of web services.</p>"
+Testing / BDD,Methods and Techniques,Use,TRUE,new,"<h3>Description</h3>
+<p>An agile software development methodology that aims to enhance collaboration and communication among developers, testers, and business stakeholders.</p>
+
+<p>It was introduced by Dan North in 2003. BDD focuses on defining the behavior of a system through examples and scenarios written in a human-readable format. Key features of BDD include the use of a ubiquitous language shared by all stakeholders, the creation of executable specifications called ""feature files,"" and the implementation of test automation to validate the desired behavior.
+</p>
+
+<p>BDD encourages a shift from traditional test-centric approaches to a more business-centric perspective, fostering a better understanding of system requirements. BDD frameworks such as Cucumber (for various programming languages) and SpecFlow (for .NET) provide tools for implementing BDD practices. By aligning development with business goals, BDD helps teams deliver software that meets customer expectations and promotes collaboration throughout the development lifecycle.</p>
+"
+Testing / Jmeter,Tools and Platforms,Use,TRUE,new,"<h3>Description</h3>
+<p>JMeter is an open-source Java-based tool designed for load testing, performance testing, and functional testing of applications. It was created by Stefano Mazzocchi and was first released in 1998. JMeter allows developers to simulate real-world user traffic on a web server, database, or any other type of application, measuring its performance and response under different loads.</p>
+<p>It supports various protocols like HTTP, FTP, JDBC, and more, making it versatile for testing different types of applications. JMeter provides a user-friendly graphical interface for creating test plans, setting up test scenarios, and analysing results.</p>
+<h3>Projects</h3>
+<ul>
+<li>Colchester Council</li>
+</ul>
+<h3>Comments</h3>
+<p>Azure load testing resource supports running JMeter scripts</p>
+<h3>Experience</h3>
+<ul>
+<li>Ben</li>
+</ul>"
+Testing / PHPUnit,Methods and Techniques,Assess,TRUE,new,
+Testing / Playwright,Languages and Frameworks,Assess,TRUE,new,"<h3>Description</h3>
+<p><a href=""https://github.com/microsoft/playwright"">Playwright</a> is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</p>"
